@@ -1,5 +1,5 @@
 # Lab 1 Module 1
-- Complete the  Vagrant VirtualBox Introduction (https://github.com/germonprez/datacom-labs/tree/develop/VagrantVirtualBoxIntroduction), 
+- Complete the  Vagrant VirtualBox Introduction (https://github.com/germonprez/datacom-labs/blob/develop/VagrantVirtualBoxIntroduction/VagrantVirtualBoxIntroduction.adoc), 
 take a screenshot after each step and add a sentence about what did you understand or what did you do in that step and why you did.
 - Check out the Docs (https://www.vagrantup.com/docs)
 - Tell me something new about vagrant which we didn’t talk about in the class
